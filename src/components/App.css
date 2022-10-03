@@ -1,0 +1,45 @@
+
+.my{
+  background-color: black;
+}
+
+.main {
+  background-color:rgb(255, 255, 255);
+  margin-top: 5em;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.center {
+  justify-content: center;
+  padding: 10px;
+}
+
+.ui.search input {
+  width: 70%;
+  border-radius: 0 !important;
+}
+
+.item {
+  padding: 12px 15px !important;
+  border-radius: 5px;
+}
+
+i.icon {
+  float: right;
+  font-size: 20px;
+  cursor: pointer;
+}
+.list{
+  background-color: rgb(253, 252, 236);
+  margin-top: 50px;
+}
+
+.right{
+  float: right;
+}
+
+
+.list-heading{
+  color: rgb(255, 159, 42);
+}
